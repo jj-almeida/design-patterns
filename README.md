@@ -4,7 +4,7 @@ Some implementations of Gang of Four (GoF) Design Patterns. Some examaples were 
 
 - [ ] Creational
     - [ ] Singleton
-    - [ ] Factory
+    - [x] Factory
     - [ ] Abstract
     - [ ] Builder
     - [ ] Prototype
